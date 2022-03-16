@@ -19,4 +19,4 @@ We noticed that 3 certificate are going to expire by 17 March 2022
 
    'kubeadm certs renew  etcd-health-checker'
 
-after this again checked whether certificates are renewed it using 'kubectl certs check-expiration'  and confirmed it worked
+After this again checked whether certificates are renewed it using 'kubectl certs check-expiration'  and confirmed it worked
