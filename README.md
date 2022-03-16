@@ -14,7 +14,7 @@ Then we will have to login to each controlplane nodes and we need to login to Ju
 We noticed that 3 certificate are going to expire by 17March 2022
 
 
-"kubeadm certs renew  etcd-server"
+'kubeadm certs renew  etcd-server'
 
 kubeadm certs renew  etcd-peer
 
