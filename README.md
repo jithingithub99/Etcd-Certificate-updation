@@ -9,8 +9,7 @@ Got a support ticket with description stating that a client certificate used to 
 
    'kubectl certs check-expiration'
 
-* We noticed that 3 certificates (etcdserver,etcd-peer,etcd-health-checker) are going to expire by 17 March 2022
-
+* We noticed that 3 certificates (etcdserver,etcd-peer,etcd-health-checker) are going to expire by 17 March 2022 
 
    'kubeadm certs renew  etcd-server'
 
