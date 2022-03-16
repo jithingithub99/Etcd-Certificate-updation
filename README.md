@@ -5,7 +5,7 @@ Got a support ticket with description stating that a client certificate used to 
 
 * First we need to login using ssh to Jump hostserver
 
-* Then we will have to login to each controlplane nodes and then check the status of certificate expiry
+* Then we will have to login to ***each controlplane nodes*** and then check the status of certificate expiry
 
    'kubectl certs check-expiration'
 
